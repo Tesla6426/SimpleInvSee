@@ -1,0 +1,4 @@
+name: SimpleInvSee
+version: '${project.version}'
+main: net.txsla.simpleinvsee.SimpleInvSee
+api-version: '1.21'
